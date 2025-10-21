@@ -1,5 +1,6 @@
-# Tathya---Bharat-AaharSetu-
-User Benefit Focus Food Label Analyzer. Enter nutritional data &amp; ingredients (per 100g) to calculate package totals, get clear ingredient descriptions, see instant High/Medium/Low nutrient warnings, and check FSSAI compliance against uploaded regulations. Make informed dietary choices
+# Tathya - Bharat AaharSetu
+Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrient story in seconds.
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
