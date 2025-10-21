@@ -1,15 +1,18 @@
-# Tathya - Bharat AaharSetu
-Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrient story in seconds.
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>Tathya - Bharat AaharSetu: Nutrition Label Interpreter & Calculator</title>
-    <!-- Load Tailwind CSS -->
+    <meta name="description" content="Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrient story in seconds.">
+    
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <!-- Load Lucide Icons -->
+    
+    <!-- Lucide Icons -->
     <script src="https://unpkg.com/lucide@latest"></script>
+    
     <style>
         body {
             font-family: 'Inter', sans-serif;
@@ -18,9 +21,11 @@ Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrie
         .card {
             background-color: white;
             border-radius: 0.75rem;
-            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+                        0 4px 6px -2px rgba(0, 0, 0, 0.05);
         }
     </style>
+    
     <script>
         tailwind.config = {
             theme: {
@@ -35,6 +40,37 @@ Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrie
         }
     </script>
 </head>
+
+<body class="p-6">
+    <!-- Header Section -->
+    <header class="text-center mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold text-primary-blue mb-2">
+            Tathya - Bharat AaharSetu
+        </h1>
+        <p class="text-gray-700 text-base md:text-lg">
+            Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrient story in seconds.
+        </p>
+    </header>
+
+    <!-- Example Content Card -->
+    <main class="max-w-3xl mx-auto">
+        <div class="card p-6">
+            <h2 class="text-2xl font-semibold text-primary-blue mb-4">
+                Nutrition Label Interpreter
+            </h2>
+            <p class="text-gray-600">
+                Enter your food product details below to get a complete nutrient profile, ingredient breakdown,
+                and recommended insights powered by Google API and GitHub integration.
+            </p>
+        </div>
+    </main>
+
+    <!-- Optional Footer -->
+    <footer class="text-center text-gray-500 mt-8 text-sm">
+        © 2025 Tathya - Bharat AaharSetu | Made with 💚 for a healthier Bharat
+    </footer>
+</body>
+</html>
 <body class="p-4 md:p-8 min-h-screen">
 
     <div class="max-w-4xl mx-auto space-y-8">
