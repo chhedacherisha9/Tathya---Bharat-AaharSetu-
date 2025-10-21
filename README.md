@@ -188,7 +188,7 @@ Baking Powder</textarea>
         };
 
         const API_MODEL = "gemini-2.5-flash-preview-09-2025";
-        const apiKey = "";
+        const apiKey = "AIzaSyBMsK-v6rOX5M6JGEzFkvR-nuwDj1tRNNk";
         const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${API_MODEL}:generateContent?key=${apiKey}`;
 
         // Traffic Light Thresholds (Per 100g) based on general international guidelines
