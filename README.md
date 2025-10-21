@@ -1,7 +1,6 @@
 # Tathya - Bharat AaharSetu
 Nutrition, De-jargonized. Get your ingredient breakdown and whole-package nutrient story in seconds.
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
