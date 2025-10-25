@@ -59,15 +59,14 @@
                 Nutrition Label Interpreter
             </h2>
             <p class="text-gray-600">
-                Enter your food product details below to get a complete nutrient profile, ingredient breakdown,
-                and recommended insights powered by Google API and GitHub integration.
+                Type in your food product details to get a quick look at its nutrients, ingredients, and recommendations.
             </p>
         </div>
     </main>
 
     <!-- Optional Footer -->
     <footer class="text-center text-gray-500 mt-8 text-sm">
-        © 2025 Tathya - Bharat AaharSetu | Made with 💚 for a healthier Bharat
+         Tathya - Bharat AaharSetu | Made with 💚 for a healthier Bharat
     </footer>
 </body>
 </html>
